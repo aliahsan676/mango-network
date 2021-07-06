@@ -66,6 +66,7 @@ h1{
     display: flex;
     padding: 10px 10px 10px 10px;
     padding-left: 10px;
+    padding-bottom: 120px;
 }
 .last-1 p{
     text-align: justify;
@@ -87,4 +88,24 @@ h1{
     margin-right: 5%;
     border-radius: 30px;
     box-shadow: 10px 10px 40px gray;
+}
+.last-2{
+    display: flex;
+    margin-left: 4%;
+    margin-right: 3.8%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 40px gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.last-3{
+    width: 33.33%;
+    padding-left: 180px;
+}
+.last-3 h2{
+    font-weight:700;
+    font-size:larger;
+}
+.bottom-part{
+    padding-bottom: 150px;
 }
