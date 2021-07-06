@@ -53,3 +53,38 @@ h1{
     padding-right: 100px;
     margin-bottom: 50px;
 }
+.bottom-1 h1{
+    text-align: center;
+}
+.bottom-1 p{
+    text-align: center;
+    padding-right: 340px;
+    padding-left: 340px;
+    padding-bottom: 50px;
+}
+.last-part{
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    padding-left: 10px;
+}
+.last-1 p{
+    text-align: justify;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.last-1 h2{
+    text-align: center;
+}
+.last-1 img{
+    width: 300px;
+    border-radius: 30px;
+    padding: 10px 10px 10px 10px;
+}
+.last-1{
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
