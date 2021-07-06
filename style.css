@@ -91,12 +91,13 @@ h1{
 }
 .last-2{
     display: flex;
-    margin-left: 4%;
+    margin-left: 5.5%;
     margin-right: 3.8%;
     border-radius: 10px;
     box-shadow: 20px 20px 40px gray;
     padding-top: 30px;
     padding-bottom: 30px;
+    
 }
 .last-3{
     width: 33.33%;
@@ -108,4 +109,19 @@ h1{
 }
 .bottom-part{
     padding-bottom: 150px;
+}
+footer h3{
+    text-align: center;
+    padding-top: 50px;
+}
+footer p{
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+}
+footer{
+    background-image: linear-gradient(black, black);
+}
+.gray{
+    color: gray;
 }
